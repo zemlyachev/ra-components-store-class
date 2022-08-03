@@ -2,7 +2,7 @@
 
 Решение к уроку "Компоненты"
 
-Задание: [https://github.com/netology-code/ra16-homeworks/tree/master/components/store-class]()
+Задание: [https://github.com/netology-code/ra16-homeworks/tree/master/components/store-class](https://github.com/netology-code/ra16-homeworks/tree/master/components/store-class)
 
 ----
 
